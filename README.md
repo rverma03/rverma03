@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @rverma03
+- 👋 Hi, I’m riya verma
 - 👀 I’m interested in backend and cloud technologies.
 - 🌱 I’m currently learning spring boot
 - 💞️ I’m looking to collaborate on data structures and algorithms in java
